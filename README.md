@@ -189,13 +189,11 @@ Global partnerships & commerce 🌐
 
 Every visitor, investor, and resident experiences inspiration, contributes to progress, and becomes part of a story that defines the future of human civilization.
 
-
----
-Sure! Here’s the preliminary feasibility study for the Seven Worlds City in English, updated to include the hotel and horror city along with all the other sectors:
+ 
 1. Project Summary
 Seven Worlds City is an integrated entertainment, industrial, and investment city, including:
 Luxury hotel with a unique cinematic hospitality experience.
-Horror-themed island or zone with live cinematic attractions.
+Horror-themed islanor zone with live cinematic attractions.
 Cinematic production areas and entertainment industries.
 Advanced factories producing games, robotic devices, and smart agricultural tools.
 Digitalized animal farming and smart agriculture.
