@@ -191,6 +191,86 @@ Every visitor, investor, and resident experiences inspiration, contributes to pr
 
 
 ---
+Sure! Here’s the preliminary feasibility study for the Seven Worlds City in English, updated to include the hotel and horror city along with all the other sectors:
+1. Project Summary
+Seven Worlds City is an integrated entertainment, industrial, and investment city, including:
+Luxury hotel with a unique cinematic hospitality experience.
+Horror-themed island or zone with live cinematic attractions.
+Cinematic production areas and entertainment industries.
+Advanced factories producing games, robotic devices, and smart agricultural tools.
+Digitalized animal farming and smart agriculture.
+Fully integrated digital bank for financial operations.
+Solar power plant supplying clean energy to the city.
+Marketing centers for global brands.
+2. Estimated Initial Investment Costs
+Estimated Cost (Billion USD)
+Sector
+Notes
+Luxury Hotel
+3
+5,000 rooms, cinematic design, luxury services
+Horror City
+0.8
+Island/entertainment zone with live cinematic experiences
+Cinematic Production
+1.2
+Studios, filming equipment, editing rooms, production company HQ
+Solar Energy
+0.5
+Solar power plant to supply city electricity
+Digital Bank
+0.2
+Financial system development, apps, cybersecurity
+Game & Robotics Factories
+1
+Production lines, development labs, smart device design
+Digitalized Farming & Animal Husbandry
+0.5
+Smart farms, monitoring systems, robotic management
+Brand Marketing Centers
+0.3
+Partnerships, stores, customer experience centers
+General Infrastructure
+1.5
+Roads, internal transport, communication networks, security
+Total Estimated Investment
+9 Billion USD
+Preliminary estimate; can increase based on final scale
+3. Potential Revenue Streams
+Annual Revenue Estimate (Billion USD)
+Sector
+Revenue Model
+Luxury Hotel
+Room fees + luxury services
+0.8–1
+Horror City
+Ticket sales, live cinematic experiences, special events
+0.4–0.6
+Cinematic Production
+Studio rental, production services, royalties
+0.5–0.8
+Solar Energy
+Selling excess electricity, government incentives
+0.1–0.2
+Digital Bank
+Transaction fees, financial services, small loans
+0.05–0.1
+Game & Robotics Factories
+Product sales, contracts with external companies
+0.3–0.5
+Digitalized Farming & Animal Husbandry
+Selling smart agricultural or animal products
+0.1–0.2
+Brand Marketing Centers
+Franchise contracts, stores, sponsorships
+0.2–0.4
+Total Expected Annual Revenue
+
+2.45–3.8 Billion USD
+4. Preliminary Feasibility Analysis
+Break-even point: With projected annual revenue of ~3 billion USD, the city could cover the initial investment in roughly 3–4 years if revenue hits the higher estimates.
+Project Risks: High construction costs, reliance on production companies, integration with advanced technologies (robotics & digital agriculture), and brand success in attracting visitors.
+Project Advantages: Diversified revenue streams, global audience attraction, renewable energy utilization, integration of innovation with entertainment and industrial investment.
 
 ✨🌟🏆🌞⚡🦅🔺💰🎬🎓👗
 
